@@ -1,0 +1,3 @@
+﻿  Main 11.cpp
+C:\Users\yugos\source\repos\Main 11\Main 11\Main 11.cpp(93,53): warning C4267: =: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+  Main 11.vcxproj -> C:\Users\yugos\source\repos\Main 11\x64\Debug\Main 11.exe
